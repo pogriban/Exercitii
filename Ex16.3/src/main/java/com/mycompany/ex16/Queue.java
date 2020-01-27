@@ -11,20 +11,17 @@ import java.util.ArrayList;
  *
  * @author ThinkPad
  */
-public class Stack implements Container {
+public class Queue implements Container{
 
     public ArrayList<Task> myArray = new ArrayList<>();
 
     public void push(Task t) {
         this.myArray.add(0, t);
         
-           // System.out.println(elem);
-        
-        //System.out.println(myArray.size());
-    }
+         }
 
     public void pop() {
-       this.myArray.remove(0);
+        this.myArray.remove(myArray.size() - 1);
         
     }
 
@@ -39,10 +36,8 @@ public class Stack implements Container {
     public void transferFrom(Container c) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-
-    @Override
+@Override
     public String toString() {
         return "Stack{"  + myArray + '}';
     }
-
 }

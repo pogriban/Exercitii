@@ -10,5 +10,23 @@ package com.mycompany.ex16;
  * @author ThinkPad
  */
 public class Task {
+
+    private String message;
+    Task(String msg) {
+        this.message = msg;
+}
+
+    public String getMessage() {
+        return message;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
+
+    @Override
+    public String toString() {
+        return "Task{"  + message + '}';
+    }
     
 }

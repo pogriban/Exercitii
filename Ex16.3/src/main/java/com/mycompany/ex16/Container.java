@@ -9,6 +9,16 @@ package com.mycompany.ex16;
  *
  * @author ThinkPad
  */
-public interface Container {
+public abstract interface Container {
     
+    void pop();
+    void push(Task t);
+    default int size(){
+        return 3;
+    }
+    default boolean isEmpty(){
+        
+        return false;   
+    }
+    void transferFrom(Container c);
 }

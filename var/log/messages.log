@@ -753,3 +753,20 @@ INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete in
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex16.3\src\test\java took: 281 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
 INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 281 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
 INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.navigation.ElementScanningTask@41161ff5, phase: ELEMENTS_RESOLVED, priority: 300] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 138 ms.
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.XMLDataObject@6dcaf44f[MultiFileObject@67ae5d41[Actions/Help/master-help.xml]]
+WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: org.openide.loaders.BrokenDataShadow@53e009e0[MultiFileObject@5c4f7f9a[Keymaps/NetBeans/D-BACK_QUOTE.shadow]]
+WARNING [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 8 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex16.3\src\test\java took: 101 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 101 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.netbeans.modules.progress.spi.InternalHandle]: Cannot switch to silent mode when not running at org.netbeans.core.ui.warmup.MenuWarmUpTask$NbWindowsAdapter$1HandleBridge.run(MenuWarmUpTask.java:244)
+WARNING [null]: Last record repeated 4 more times.
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-editor-java-JavaBracesMatcher.shadow], but some are: [org-netbeans-modules-editor-bracesmatching-LegacyEssMatcher.instance, org-netbeans-modules-editor-bracesmatching-DefaultMatcher.instance]
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@49e1a91b : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 154 ms.
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@49e1a91b : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 125 ms.
+WARNING [org.openide.util.WeakListenerImpl]: Can't remove java.beans.PropertyChangeListener using method org.netbeans.modules.maven.NbMavenProjectImpl.removePropertyChangeListener from Maven[D:\Tek\Exercises\Ex16.3\pom.xml]
+WARNING [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+WARNING [null]: Last record repeated 36 times in total.
+INFO [org.netbeans.modules.java.navigation.ElementScanningTask]: Duplicate enclosed element: <error>
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
