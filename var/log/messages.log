@@ -770,3 +770,12 @@ WARNING [null]: Last record repeated more than 10 times, further logs of this re
 WARNING [null]: Last record repeated 36 times in total.
 INFO [org.netbeans.modules.java.navigation.ElementScanningTask]: Duplicate enclosed element: <error>
 INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+INFO [null]: Last record repeated 12 times in total.
+INFO [org.netbeans.modules.bugtracking.BugtrackingManager]: Loading stored repositories took 385 millis.
+INFO [org.netbeans.modules.java.navigation.ElementScanningTask]: Duplicate enclosed element: <error>
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+INFO [null]: Last record repeated 36 times in total.
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@4e961f34 : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 90 ms.
+INFO [org.netbeans.modules.java.navigation.ElementScanningTask]: Duplicate enclosed element: <error>
+INFO [null]: Last record repeated 5 more times.
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-CodeActions.instance], but some are: [org-netbeans-modules-java-editor-codegen-ConstructorGenerator$Factory.instance, org-netbeans-modules-java-editor-codegen-LoggerGenerator$Factory.instance, org-netbeans-modules-java-editor-codegen-GetterSetterGenerator$Factory.instance, org-netbeans-modules-java-editor-codegen-EqualsHashCodeGenerator$Factory.instance, org-netbeans-modules-java-editor-codegen-ToStringGenerator$Factory.instance, org-netbeans-modules-java-editor-codegen-DelegateMethodGenerator$Factory.instance, org-netbeans-modules-java-editor-codegen-ImplementOverrideMethodGenerator$Factory.instance, org-netbeans-modules-beans-addproperty-AddPropertyCodeGenerator$Factory.instance, org-netbeans-modules-j2ee-persistence-action-UseEntityManagerCodeGenerator$Factory.instance]
