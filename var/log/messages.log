@@ -689,3 +689,97 @@ WARNING [org.netbeans.modules.options.keymap.LayersBridge]: Invalid shortcut: or
 WARNING [null]: Last record repeated again.
 INFO [org.netbeans.modules.extbrowser]: interrupted in run(): java.lang.InterruptedException
 INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: CancelableTaskWrapper[task: org.netbeans.modules.java.navigation.ElementScanningTask@7491a8db, phase: ELEMENTS_RESOLVED, priority: 300] : class org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper ignored cancel for 74 ms.
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+WARNING [org.netbeans.modules.java.source.tasklist.IncorrectErrorBadges]: Incorrect error badges detected, file=D:\Tek\Lucrare de curs\LucrareIndividuala\src\main\java\pogriban\lucrareindividuala\Intrebari.java.
+WARNING [org.netbeans.modules.java.source.tasklist.IncorrectErrorBadges]: Going to recompute root=D:\Tek\Lucrare de curs\LucrareIndividuala\src\main\java, files in error=[file:/D:/Tek/Lucrare%20de%20curs/LucrareIndividuala/src/main/java/pogriban/lucrareindividuala/Intrebari.java].
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@1e6cd02a called start multiple times
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-lsp-client-bindings-HyperlinkProviderImpl.instance], but some are: [JavaHyperlinkProvider.instance, org.netbeans.modules.j2ee.persistence.editor.hyperlink.NamedQueryHyperlinkProvider.instance, HyperlinkProviderImpl.instance, org-netbeans-modules-editor-url-HyperlinkImpl.instance]
+WARNING [org.openide.filesystems.Ordering]: Not all children in / marked with the position attribute: [org-netbeans-modules-editor-java-JavaBracesMatcher.shadow], but some are: [org-netbeans-modules-editor-bracesmatching-LegacyEssMatcher.instance, org-netbeans-modules-editor-bracesmatching-DefaultMatcher.instance]
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\ThinkPad\AppData\Local\Temp\vcs-1580408019614\vcs-1580409833293\MaiMicCaZero.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\ThinkPad\AppData\Local\Temp\vcs-1580408019614\vcs-1580409843342\MaiMicCaZero.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\ThinkPad\AppData\Local\Temp\vcs-1580408019614\vcs-1580409857650\MaiMicCaZero.java
+WARNING [org.netbeans.modules.versioning.util.Utils]: associateEncoding() no file object available for C:\Users\ThinkPad\AppData\Local\Temp\vcs-1580408019614\vcs-1580409867445\MaiMicCaZero.java
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=Milioner$1 ]
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@49c7642 called start multiple times
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.nio.charset.Charset$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=javax.security.auth.Subject$SecureSet$1 ]
+WARNING [org.netbeans.modules.java.source.nbjavac.parsing.PartialReparserImpl]: Javac returned startpos: 312 > endpos: -1
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.SliceOps$3$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.SliceOps$4$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.SliceOps$1$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.SliceOps$2$1 ]
+WARNING [org.netbeans.modules.java.source.nbjavac.parsing.PartialReparserImpl]: Javac returned startpos: 312 > endpos: -1
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.
+SEVERE [org.openide.util.Exceptions]
+java.lang.AssertionError
+	at com.sun.tools.javac.util.Assert.error(Assert.java:155)
+	at com.sun.tools.javac.util.Assert.checkNonNull(Assert.java:62)
+	at com.sun.tools.javac.comp.Annotate.fromAnnotations(Annotate.java:167)
+	at com.sun.tools.javac.comp.Annotate.lambda$annotateTypeSecondStage$5(Annotate.java:1033)
+	at com.sun.tools.javac.comp.Annotate.flush(Annotate.java:194)
+	at com.sun.tools.javac.comp.Annotate.unblockAnnotations(Annotate.java:144)
+	at com.sun.tools.javac.comp.Attr.visitVarDef(Attr.java:1189)
+	at com.sun.tools.javac.tree.JCTree$JCVariableDecl.accept(JCTree.java:968)
+	at com.sun.tools.javac.comp.Attr.attribTree(Attr.java:672)
+	at com.sun.tools.javac.comp.Attr.attribStat(Attr.java:752)
+	at com.sun.tools.javac.comp.Attr.visitForeachLoop(Attr.java:1418)
+	at com.sun.tools.javac.tree.JCTree$JCEnhancedForLoop.accept(JCTree.java:1172)
+	at com.sun.tools.javac.comp.Attr.attribTree(Attr.java:672)
+	at com.sun.tools.javac.comp.Attr.attribStat(Attr.java:752)
+	at org.netbeans.modules.java.hints.spiimpl.Utilities.attributeTree(Utilities.java:656)
+	at org.netbeans.modules.java.hints.spiimpl.Utilities.parseAndAttribute(Utilities.java:435)
+	at org.netbeans.modules.java.hints.spiimpl.Utilities.parseAndAttribute(Utilities.java:349)
+	at org.netbeans.modules.java.hints.spiimpl.Utilities.parseAndAttribute(Utilities.java:329)
+	at org.netbeans.modules.java.hints.spiimpl.Utilities.parseAndAttribute(Utilities.java:325)
+	at org.netbeans.modules.java.hints.spiimpl.pm.PatternCompiler.compile(PatternCompiler.java:44)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.doComputeHints(HintsInvoker.java:535)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeSuggestions(HintsInvoker.java:450)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:221)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:193)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:166)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:128)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsTask.run(HintsTask.java:114)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsTask.run(HintsTask.java:65)
+	at org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper.run(JavaSourceAccessor.java:273)
+	at org.netbeans.modules.parsing.impl.TaskProcessor.callParserResultTask(TaskProcessor.java:561)
+	at org.netbeans.modules.parsing.impl.TaskProcessor$RequestPerformer.run(TaskProcessor.java:786)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:279)
+	at org.netbeans.modules.parsing.impl.TaskProcessor$RequestPerformer.execute(TaskProcessor.java:702)
+[catch] at org.netbeans.modules.parsing.impl.TaskProcessor$CompilationJob.run(TaskProcessor.java:663)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.nio.charset.Charset$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=javax.security.auth.Subject$SecureSet$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.cs.AbstractCharsetProvider$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.lang.ProcessEnvironment$CheckedEntrySet$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.cs.FastCharsetProvider$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.util.PreHashedMap$2$1 ]

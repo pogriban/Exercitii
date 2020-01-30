@@ -118,3 +118,134 @@
   <message>USG_PROJECT_OPEN</message>
   <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
 </record>
+<record>
+  <date>2020-01-30T21:35:58</date>
+  <millis>1580412958643</millis>
+  <sequence>1600</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>225</thread>
+  <message>USG_PROJECT_CREATE_MAVEN</message>
+  <param>org.apache.maven.archetypes:maven-archetype-quickstart:1.1</param>
+</record>
+<record>
+  <date>2020-01-30T21:35:59</date>
+  <millis>1580412959058</millis>
+  <sequence>1603</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>225</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2020-01-30T21:35:59</date>
+  <millis>1580412959101</millis>
+  <sequence>1605</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>225</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2020-01-30T22:15:48</date>
+  <millis>1580415348886</millis>
+  <sequence>1912</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>297</thread>
+  <message>USG_PROJECT_CLOSE</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:20</date>
+  <millis>1580415380867</millis>
+  <sequence>1926</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>310</thread>
+  <message>USG_PROJECT_CREATE_MAVEN</message>
+  <param>org.apache.maven.archetypes:maven-archetype-quickstart:1.1</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:21</date>
+  <millis>1580415381065</millis>
+  <sequence>1929</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>310</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:21</date>
+  <millis>1580415381078</millis>
+  <sequence>1931</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>310</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:29</date>
+  <millis>1580415389996</millis>
+  <sequence>1969</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>309</thread>
+  <message>USG_PROJECT_CLOSE</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:54</date>
+  <millis>1580415414634</millis>
+  <sequence>1987</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>297</thread>
+  <message>USG_PROJECT_CREATE_MAVEN</message>
+  <param>org.apache.maven.archetypes:maven-archetype-quickstart:1.1</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:54</date>
+  <millis>1580415414757</millis>
+  <sequence>1990</sequence>
+  <logger>org.netbeans.ui.metrics.maven</logger>
+  <level>800</level>
+  <thread>309</thread>
+  <message>USG_PROJECT_OPEN_MAVEN</message>
+  <param>jar</param>
+</record>
+<record>
+  <date>2020-01-30T22:16:54</date>
+  <millis>1580415414787</millis>
+  <sequence>1992</sequence>
+  <logger>org.netbeans.ui.metrics.projects</logger>
+  <level>800</level>
+  <thread>309</thread>
+  <message>USG_PROJECT_OPEN</message>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+</record>
+<record>
+  <date>2020-01-30T22:17:48</date>
+  <millis>1580415468020</millis>
+  <sequence>2028</sequence>
+  <logger>org.netbeans.ui.metrics.unittestslibrary</logger>
+  <level>800</level>
+  <thread>300</thread>
+  <message>USG_UNIT_TESTS_LIBRARY</message>
+  <param>JUNIT5</param>
+</record>
+<record>
+  <date>2020-01-30T22:25:27</date>
+  <millis>1580415927103</millis>
+  <sequence>2299</sequence>
+  <logger>org.netbeans.ui.metrics.bugtracking</logger>
+  <level>800</level>
+  <thread>21</thread>
+  <message>USG_ISSUE_TRACKING_REPOSITORY</message>
+  <param>NB_LOCAL_TASKS</param>
+  <param>OTHER</param>
+</record>
