@@ -1,0 +1,74 @@
+Jan 30, 2020 8:12:13 PM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+Jan 30, 2020 8:12:18 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking org-netbeans-modules-nbjavac-impl.nbm
+Jan 30, 2020 8:12:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac-impl.xml to D:\Tek\Exercises\update\backup\netbeans\config\Modules\org-netbeans-modules-nbjavac-impl.xml
+Jan 30, 2020 8:12:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac-impl.xml deleted.
+Jan 30, 2020 8:12:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-impl.nbm:netbeans/config/Modules/org-netbeans-modules-nbjavac-impl.xml to D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac-impl.xml
+Jan 30, 2020 8:12:19 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-impl.nbm:netbeans/modules/ext/nb-javac-impl.jar.pack.gz to D:\Tek\Exercises\modules\ext\nb-javac-impl.jar.pack.gz
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack200
+INFO: Unpack D:\Tek\Exercises\modules\ext\nb-javac-impl.jar.pack.gz to D:\Tek\Exercises\modules\ext\nb-javac-impl.jar
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\modules\ext\nb-javac-impl.jar.pack.gz deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-impl.nbm:netbeans/modules/org-netbeans-modules-nbjavac-impl.jar.pack.gz to D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-impl.jar.pack.gz
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack200
+INFO: Unpack D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-impl.jar.pack.gz to D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-impl.jar
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-impl.jar.pack.gz deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-impl.nbm deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@a3ecece
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.UpdateTracking$Module write
+INFO: File D:\Tek\Exercises\update_tracking\org-netbeans-modules-nbjavac-impl.xml modified.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking org-netbeans-modules-nbjavac-api.nbm
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac-api.xml to D:\Tek\Exercises\update\backup\netbeans\config\Modules\org-netbeans-modules-nbjavac-api.xml
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac-api.xml deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-api.nbm:netbeans/config/Modules/org-netbeans-modules-nbjavac-api.xml to D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac-api.xml
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-api.nbm:netbeans/modules/ext/nb-javac-api.jar.pack.gz to D:\Tek\Exercises\modules\ext\nb-javac-api.jar.pack.gz
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack200
+INFO: Unpack D:\Tek\Exercises\modules\ext\nb-javac-api.jar.pack.gz to D:\Tek\Exercises\modules\ext\nb-javac-api.jar
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\modules\ext\nb-javac-api.jar.pack.gz deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-api.nbm:netbeans/modules/org-netbeans-modules-nbjavac-api.jar.pack.gz to D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-api.jar.pack.gz
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack200
+INFO: Unpack D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-api.jar.pack.gz to D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-api.jar
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac-api.jar.pack.gz deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac-api.nbm deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@53038ed1
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.UpdateTracking$Module write
+INFO: File D:\Tek\Exercises\update_tracking\org-netbeans-modules-nbjavac-api.xml modified.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking org-netbeans-modules-nbjavac.nbm
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Backup file D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac.xml to D:\Tek\Exercises\update\backup\netbeans\config\Modules\org-netbeans-modules-nbjavac.xml
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac.xml deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac.nbm:netbeans/config/Modules/org-netbeans-modules-nbjavac.xml to D:\Tek\Exercises\config\Modules\org-netbeans-modules-nbjavac.xml
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac.nbm:netbeans/modules/org-netbeans-modules-nbjavac.jar.pack.gz to D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac.jar.pack.gz
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack200
+INFO: Unpack D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac.jar.pack.gz to D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac.jar
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\modules\org-netbeans-modules-nbjavac.jar.pack.gz deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.ModuleUpdater unpack
+INFO: File D:\Tek\Exercises\update\download\org-netbeans-modules-nbjavac.nbm deleted.
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@780fe908
+Jan 30, 2020 8:12:20 PM org.netbeans.updater.UpdateTracking$Module write
+INFO: File D:\Tek\Exercises\update_tracking\org-netbeans-modules-nbjavac.xml modified.

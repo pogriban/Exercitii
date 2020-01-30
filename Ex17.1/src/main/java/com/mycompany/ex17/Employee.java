@@ -9,7 +9,7 @@ package com.mycompany.ex17;
  *
  * @author ThinkPad
  */
-public  class Employee extends PersonViewer implements Person{
+public  class Employee  implements Person{
     private String name;
     private String dep;
     private String email;

@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|252626021|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Lucrare%20de%20curs/LucrareIndividuala/"/>
+    </fileobject>
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9913857|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex18.1/"/>
+    </fileobject>
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9914817|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex17.2/"/>
+    </fileobject>
     <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9914818|org-netbeans-modules-profiler">
         <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex17.1/"/>
     </fileobject>
     <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9915777|org-netbeans-modules-profiler">
         <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex16.3/"/>
+    </fileobject>
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9920584|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex11.1/"/>
     </fileobject>
 </attributes>

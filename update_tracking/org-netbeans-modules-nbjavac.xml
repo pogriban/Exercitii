@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <module codename="org.netbeans.modules.nbjavac/1">
-    <module_version install_time="1580122881154" last="true" origin="NetBeans Plugin Portal" specification_version="1.71">
+    <module_version install_time="1580122881154" last="false" origin="NetBeans Plugin Portal" specification_version="1.71">
+        <file crc="684569144" name="config/Modules/org-netbeans-modules-nbjavac.xml"/>
+        <file crc="878403559" name="modules/org-netbeans-modules-nbjavac.jar"/>
+    </module_version>
+    <module_version install_time="1580407940531" last="true" origin="updater" specification_version="1.71">
         <file crc="684569144" name="config/Modules/org-netbeans-modules-nbjavac.xml"/>
         <file crc="878403559" name="modules/org-netbeans-modules-nbjavac.jar"/>
     </module_version>
