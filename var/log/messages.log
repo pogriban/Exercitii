@@ -783,3 +783,160 @@ INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kin
 INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.nio.cs.FastCharsetProvider$1 ]
 INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
 INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.util.PreHashedMap$2$1 ]
+WARNING [org.openide.filesystems.Ordering]: Found same position 400 for both Templates/Project/AntJava/J2EE and Templates/Project/AntJava/j2sefreeform.xml
+WARNING [org.openide.filesystems.Ordering]: Found same position 200 for both Templates/Project/AntJava/Web and Templates/Project/AntJava/org-netbeans-modules-java-j2seproject-ui-wizards-NewJ2SEProjectWizardIterator-library
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 25 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 binary roots took: 48 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\main\resources took: 1 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\resources took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\main\java took: 276 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\java took: 1 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 4 source roots took: 278 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 67 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\java took: 118 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 118 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.Stream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.LongStream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.DoubleStream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.IntStream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.Stream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.LongStream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.DoubleStream$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=java.util.stream.IntStream$1 ]
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@606bed48 called start multiple times
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@320bd418 called start multiple times
+WARNING [org.openide.util.WeakListenerImpl]: Can't remove java.beans.PropertyChangeListener using method org.netbeans.modules.maven.NbMavenProjectImpl.removePropertyChangeListener from Maven[D:\Tek\Exercises\Ex18.2\pom.xml]
+WARNING [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+WARNING [null]: Last record repeated 48 times in total.
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.util.PreHashedMap$1$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.util.PreHashedMap$1$1 ]
+INFO [org.netbeans.api.java.source.ElementHandle]: Resolved type is null for kind = CLASS
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=CLASS; sigs=sun.util.PreHashedMap$1$1 ]
+INFO [org.netbeans.modules.java.navigation.ElementScanningTask]: Duplicate enclosed element: <error>
+INFO [null]: Last record repeated 5 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=Main18_2 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesChanged: type ElementHandle[kind=OTHER; sigs=Main18_2 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=Main18_2 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesChanged: type ElementHandle[kind=OTHER; sigs=Main18_2 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=Main18_2 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesChanged: type ElementHandle[kind=OTHER; sigs=Main18_2 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=Main18_2 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesChanged: type ElementHandle[kind=OTHER; sigs=Main18_2 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=Main18_2 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesChanged: type ElementHandle[kind=OTHER; sigs=Main18_2 ] has dissapeared
+INFO [org.netbeans.api.java.source.ElementHandle]: Cannot resolve: ElementHandle[kind=OTHER; sigs=Main18_2 ]
+WARNING [org.netbeans.modules.j2ee.metadata.model.api.support.annotation.PersistentObjectManager]: typesChanged: type ElementHandle[kind=OTHER; sigs=Main18_2 ] has dissapeared
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 1 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 9 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 binary roots took: 27 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\ThinkPad\Documents\NetBeansProjects\Ex18.2\src\test\resources took: 1 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\ThinkPad\Documents\NetBeansProjects\Ex18.2\src\main\resources took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\ThinkPad\Documents\NetBeansProjects\Ex18.2\src\test\java took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: C:\Users\ThinkPad\Documents\NetBeansProjects\Ex18.2\src\main\java took: 133 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 4 source roots took: 134 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 source roots took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 2 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 binary roots took: 28 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\main\resources took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\resources took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\main\java took: 172 ms (New or modified files: 0, Deleted files: 2) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\java took: 0 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 4 source roots took: 172 ms (New or modified files: 0, Deleted files: 2) [Adding listeners took: 0 ms]
+INFO: No FileObject found for the following URL: file:/D:/Tek/Exercises/Ex18.2/src/test/java/
+java.lang.IllegalStateException: No FileObject found for the following URL: file:/D:/Tek/Exercises/Ex18.2/src/test/java/
+	at org.netbeans.modules.java.testrunner.CommonTestUtil.getTestTargets(CommonTestUtil.java:130)
+	at org.netbeans.modules.java.testrunner.providers.JavaCommonTestUtilProvider.getTestTargets(JavaCommonTestUtilProvider.java:37)
+	at org.netbeans.modules.java.testrunner.ui.hints.Utils.populateLocations(Utils.java:122)
+	at org.netbeans.modules.java.testrunner.ui.hints.Utils.getValidCombinations(Utils.java:62)
+	at org.netbeans.modules.java.testrunner.ui.hints.CreateTestClassHint.computeWarning(CreateTestClassHint.java:85)
+	at sun.reflect.GeneratedMethodAccessor153.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.netbeans.modules.java.hints.providers.code.CodeHintProviderImpl$WorkerImpl.createErrors(CodeHintProviderImpl.java:317)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.runHint(HintsInvoker.java:798)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.access$400(HintsInvoker.java:90)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker$ScannerImpl.runAndAdd(HintsInvoker.java:657)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker$ScannerImpl.scanDoNotGoDeeper(HintsInvoker.java:711)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeSuggestions(HintsInvoker.java:385)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:221)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:193)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:166)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsInvoker.computeHints(HintsInvoker.java:128)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsTask.run(HintsTask.java:114)
+	at org.netbeans.modules.java.hints.spiimpl.hints.HintsTask.run(HintsTask.java:65)
+	at org.netbeans.modules.java.source.JavaSourceAccessor$CancelableTaskWrapper.run(JavaSourceAccessor.java:273)
+	at org.netbeans.modules.parsing.impl.TaskProcessor.callParserResultTask(TaskProcessor.java:561)
+	at org.netbeans.modules.parsing.impl.TaskProcessor$RequestPerformer.run(TaskProcessor.java:786)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:279)
+	at org.netbeans.modules.parsing.impl.TaskProcessor$RequestPerformer.execute(TaskProcessor.java:702)
+	at org.netbeans.modules.parsing.impl.TaskProcessor$CompilationJob.run(TaskProcessor.java:663)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+INFO: No FileObject found for the following URL: file:/D:/Tek/Exercises/Ex18.2/src/test/java/
+java.lang.IllegalStateException: No FileObject found for the following URL: file:/D:/Tek/Exercises/Ex18.2/src/test/java/
+	at org.netbeans.modules.java.testrunner.CommonTestUtil.getTestTargets(CommonTestUtil.java:130)
+	at org.netbeans.modules.java.testrunner.JavaUtils.getTestSourceRoots(JavaUtils.java:206)
+	at org.netbeans.modules.java.testrunner.ui.JavaTestCreatorConfiguration.getTestSourceRoots(JavaTestCreatorConfiguration.java:425)
+	at org.netbeans.modules.gsf.testrunner.ui.CommonTestsCfgOfCreate.setupLocationChooser(CommonTestsCfgOfCreate.java:1059)
+	at org.netbeans.modules.gsf.testrunner.ui.CommonTestsCfgOfCreate.fillFormData(CommonTestsCfgOfCreate.java:1045)
+	at org.netbeans.modules.gsf.testrunner.ui.CommonTestsCfgOfCreate.fireFrameworkChanged(CommonTestsCfgOfCreate.java:532)
+	at org.netbeans.modules.gsf.testrunner.ui.CommonTestsCfgOfCreate.addTestingFrameworks(CommonTestsCfgOfCreate.java:607)
+	at org.netbeans.modules.gsf.testrunner.ui.api.TestCreatorPanelDisplayer.displayPanel(TestCreatorPanelDisplayer.java:82)
+	at org.netbeans.modules.java.testrunner.ui.hints.CreateTestClassHint$CreateTestClassFix.implement(CreateTestClassHint.java:130)
+	at org.netbeans.modules.editor.hints.HintsUI$1.run(HintsUI.java:810)
+	at org.openide.util.RequestProcessor$Task.run(RequestProcessor.java:1418)
+	at org.netbeans.modules.openide.util.GlobalLookup.execute(GlobalLookup.java:45)
+	at org.openide.util.lookup.Lookups.executeWith(Lookups.java:278)
+	at org.openide.util.RequestProcessor$Processor.run(RequestProcessor.java:2033)
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 90 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 0 binary roots took: 0 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\java took: 60 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 60 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+SEVERE: Could not find TypeElement for org.junit.jupiter.api.BeforeAll
+SEVERE: Could not find TypeElement for org.junit.jupiter.api.AfterAll
+SEVERE: Could not find TypeElement for org.junit.jupiter.api.BeforeEach
+SEVERE: Could not find TypeElement for org.junit.jupiter.api.AfterEach
+SEVERE: Could not find TypeElement for org.junit.jupiter.api.Test
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@53762010 : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 107 ms.
+WARNING [org.openide.util.WeakListenerImpl]: Can't remove java.beans.PropertyChangeListener using method org.netbeans.modules.maven.NbMavenProjectImpl.removePropertyChangeListener from Maven[D:\Tek\Exercises\Ex18.2\pom.xml]
+WARNING [null]: Last record repeated 58 times in total.
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Resolving dependencies took: 31 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 7 binary roots took: 125 ms
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Indexing of: D:\Tek\Exercises\Ex18.2\src\test\java took: 208 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+INFO [org.netbeans.modules.parsing.impl.indexing.RepositoryUpdater]: Complete indexing of 1 source roots took: 208 ms (New or modified files: 0, Deleted files: 0) [Adding listeners took: 0 ms]
+WARNING [org.openide.util.WeakListenerImpl]: Can't remove java.beans.PropertyChangeListener using method org.netbeans.modules.maven.NbMavenProjectImpl.removePropertyChangeListener from Maven[D:\Tek\Exercises\Ex18.2\pom.xml]
+WARNING [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+WARNING [null]: Last record repeated 58 times in total.
+INFO [org.netbeans.modules.bugtracking.BugtrackingManager]: Loading stored repositories took 358 millis.
+INFO [org.netbeans.modules.refactoring.spi.impl.ParametersPanel]: org.netbeans.modules.refactoring.api.RefactoringSession@41ba2bad called start multiple times
+WARNING [org.netbeans.modules.java.source.parsing.JavacParser]: ClassPath identity changed for D:\Tek\Exercises\Ex18.2\src\test\java\com\mycompany\ex18\Main18_2Test.java@5739e3dd:5baece30, class path owner: D:\Tek\Exercises\Ex18.2 (class org.netbeans.modules.maven.NbMavenProjectImpl) original sourcePath: D:\Tek\Exercises\Ex18.2\src\test\java;D:\Tek\Exercises\Ex18.2\src\main\java new sourcePath: D:\Tek\Exercises\Ex18.2\src\test\java;D:\Tek\Exercises\Ex18.2\src\test\resources
+INFO [org.netbeans.modules.java.classfile.CodeGenerator]: Cannot find resource: com/mycompany/ex18/Predicat.class on classpath: C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext\zipfs.jar;D:\Tek\Exercises\Ex18.2\target\classes;D:\Tek\Exercises\Ex18.2\src\main\java;D:\Tek\Exercises\Ex18.2\src\main\resources
+INFO [null]: Last record repeated again.
+INFO [org.netbeans.modules.parsing.impl.TaskProcessor]: Task: org.netbeans.modules.java.editor.semantic.SemanticHighlighter@723285d0 : class org.netbeans.modules.java.editor.semantic.SemanticHighlighter ignored cancel for 105 ms.
+WARNING [org.openide.util.WeakListenerImpl]: Can't remove java.beans.PropertyChangeListener using method org.netbeans.modules.maven.NbMavenProjectImpl.removePropertyChangeListener from Maven[D:\Tek\Exercises\Ex18.2\pom.xml]
+WARNING [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+WARNING [null]: Last record repeated 184 times in total.
+WARNING [org.netbeans.modules.java.source.nbjavac.parsing.PartialReparserImpl]: Javac returned startpos: 312 > endpos: -1
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.
+WARNING [null]: Last record repeated again.

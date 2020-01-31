@@ -6929,3 +6929,1383 @@
   <key>LOG_WINDOW_DEACTIVATED</key>
   <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
 </record>
+<record>
+  <date>2020-01-30T23:28:34</date>
+  <millis>1580419714290</millis>
+  <sequence>3316</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2020-01-30T23:28:35</date>
+  <millis>1580419715885</millis>
+  <sequence>3317</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>504</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>1027</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:31</date>
+  <millis>1580451811326</millis>
+  <sequence>3318</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>509</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>62</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:46</date>
+  <millis>1580451826985</millis>
+  <sequence>3320</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>514</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>32250661</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:47</date>
+  <millis>1580451827889</millis>
+  <sequence>3321</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>514</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>900</param>
+  <param>java</param>
+  <param>1</param>
+  <param>300</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>8</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:47</date>
+  <millis>1580451827889</millis>
+  <sequence>3322</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>514</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:48</date>
+  <millis>1580451828029</millis>
+  <sequence>3323</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>514</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>140</param>
+  <param>java</param>
+  <param>1</param>
+  <param>72</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>4</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:48</date>
+  <millis>1580451828029</millis>
+  <sequence>3324</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>514</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:23:48</date>
+  <millis>1580451828261</millis>
+  <sequence>3325</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>514</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>232</param>
+  <param>java</param>
+  <param>1</param>
+  <param>132</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>4</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:24:34</date>
+  <millis>1580451874574</millis>
+  <sequence>3327</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>true</param>
+</record>
+<record>
+  <date>2020-01-31T08:24:37</date>
+  <millis>1580451877497</millis>
+  <sequence>3328</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>true</param>
+</record>
+<record>
+  <date>2020-01-31T08:24:40</date>
+  <millis>1580451880295</millis>
+  <sequence>3332</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_KEY_SELECT_DEFAULT</message>
+  <key>COMPL_KEY_SELECT_DEFAULT</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>
+</param>
+  <param>0</param>
+  <param>InterfaceItem</param>
+</record>
+<record>
+  <date>2020-01-31T08:24:44</date>
+  <millis>1580451884679</millis>
+  <sequence>3333</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>520</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>56418</param>
+</record>
+<record>
+  <date>2020-01-31T08:24:44</date>
+  <millis>1580451884680</millis>
+  <sequence>3334</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>520</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:24:47</date>
+  <millis>1580451887215</millis>
+  <sequence>3335</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580451887215,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580451887215,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:25:11</date>
+  <millis>1580451911156</millis>
+  <sequence>3336</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580451911156,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580451911156,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:25:33</date>
+  <millis>1580451933615</millis>
+  <sequence>3337</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580451933615,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580451933615,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:25:42</date>
+  <millis>1580451942027</millis>
+  <sequence>3338</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2020-01-31T08:25:44</date>
+  <millis>1580451944463</millis>
+  <sequence>3340</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_KEY_SELECT_DEFAULT</message>
+  <key>COMPL_KEY_SELECT_DEFAULT</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>
+</param>
+  <param>0</param>
+  <param>MethodItem</param>
+</record>
+<record>
+  <date>2020-01-31T08:25:48</date>
+  <millis>1580451948775</millis>
+  <sequence>3342</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>
+<record>
+  <date>2020-01-31T08:26:00</date>
+  <millis>1580451960690</millis>
+  <sequence>3343</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>520</thread>
+  <message>LOG_WINDOW_ACTIVATED</message>
+  <key>LOG_WINDOW_ACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+  <param>50</param>
+</record>
+<record>
+  <date>2020-01-31T08:26:01</date>
+  <millis>1580451961045</millis>
+  <sequence>3344</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580451961040,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580451961040,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:26:09</date>
+  <millis>1580451969226</millis>
+  <sequence>3345</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580451969222,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580451969222,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:26:45</date>
+  <millis>1580452005251</millis>
+  <sequence>3346</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>523</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>120571</param>
+</record>
+<record>
+  <date>2020-01-31T08:26:45</date>
+  <millis>1580452005539</millis>
+  <sequence>3347</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>523</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>288</param>
+  <param>java</param>
+  <param>1</param>
+  <param>110</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>2</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>4</param>
+</record>
+<record>
+  <date>2020-01-31T08:26:50</date>
+  <millis>1580452010736</millis>
+  <sequence>3348</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452010736,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x1029,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452010736,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x1029,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:27:13</date>
+  <millis>1580452033355</millis>
+  <sequence>3358</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1580452033353,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1047,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1580452033353,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1047,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction[copy-to-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction@53da7837</param>
+  <param>copy-to-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:27:16</date>
+  <millis>1580452036109</millis>
+  <sequence>3359</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452036104,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1047,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452036104,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1047,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:27:17</date>
+  <millis>1580452037958</millis>
+  <sequence>3360</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2020-01-31T08:27:33</date>
+  <millis>1580452053972</millis>
+  <sequence>3361</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>527</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>48433</param>
+</record>
+<record>
+  <date>2020-01-31T08:27:34</date>
+  <millis>1580452054206</millis>
+  <sequence>3362</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>527</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>234</param>
+  <param>java</param>
+  <param>1</param>
+  <param>130</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>5</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>3</param>
+</record>
+<record>
+  <date>2020-01-31T08:27:37</date>
+  <millis>1580452057657</millis>
+  <sequence>3363</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452057657,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452057657,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:28:17</date>
+  <millis>1580452097280</millis>
+  <sequence>3364</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452097280,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452097280,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:28:33</date>
+  <millis>1580452113282</millis>
+  <sequence>3365</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+X,when=1580452113281,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x561,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+X,when=1580452113281,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x561,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.modules.java.editor.imports.ClipboardHandler$JavaCutAction[cut-to-clipboard]</param>
+  <param>org.netbeans.modules.java.editor.imports.ClipboardHandler$JavaCutAction@676e2a7e</param>
+  <param>cut-to-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:28:36</date>
+  <millis>1580452116067</millis>
+  <sequence>3366</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452116064,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452116064,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:28:36</date>
+  <millis>1580452116856</millis>
+  <sequence>3367</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452116856,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452116856,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1559x550,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:28:45</date>
+  <millis>1580452125136</millis>
+  <sequence>3368</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452125133,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x579,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452125133,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x579,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:28:57</date>
+  <millis>1580452137424</millis>
+  <sequence>3369</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452137424,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x597,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452137424,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x597,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:04</date>
+  <millis>1580452144924</millis>
+  <sequence>3370</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:06</date>
+  <millis>1580452146450</millis>
+  <sequence>3372</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_KEY_SELECT_DEFAULT</message>
+  <key>COMPL_KEY_SELECT_DEFAULT</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>
+</param>
+  <param>0</param>
+  <param>FieldItem</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:12</date>
+  <millis>1580452152269</millis>
+  <sequence>3373</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>98063</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:12</date>
+  <millis>1580452152666</millis>
+  <sequence>3374</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>396</param>
+  <param>java</param>
+  <param>1</param>
+  <param>205</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>5</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:12</date>
+  <millis>1580452152666</millis>
+  <sequence>3375</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:12</date>
+  <millis>1580452152886</millis>
+  <sequence>3376</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>220</param>
+  <param>java</param>
+  <param>1</param>
+  <param>141</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>3</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:16</date>
+  <millis>1580452156319</millis>
+  <sequence>3377</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452156316,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x1047,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=ENTER,when=1580452156316,modifiers=] on org.openide.text.QuietEditorPane[,0,0,1542x1047,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction[insert-break]</param>
+  <param>org.netbeans.editor.BaseKit$InsertBreakAction@1d66a236</param>
+  <param>insert-break</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:33</date>
+  <millis>1580452173292</millis>
+  <sequence>3378</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:38</date>
+  <millis>1580452178312</millis>
+  <sequence>3379</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:49</date>
+  <millis>1580452189648</millis>
+  <sequence>3391</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>36762</param>
+</record>
+<record>
+  <date>2020-01-31T08:29:49</date>
+  <millis>1580452189844</millis>
+  <sequence>3392</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>196</param>
+  <param>java</param>
+  <param>1</param>
+  <param>130</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>1</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:25</date>
+  <millis>1580452225268</millis>
+  <sequence>3393</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@120f77eb</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:47</date>
+  <millis>1580452247483</millis>
+  <sequence>3394</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>57639</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:48</date>
+  <millis>1580452248003</millis>
+  <sequence>3395</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>519</param>
+  <param>java</param>
+  <param>1</param>
+  <param>113</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>4</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:48</date>
+  <millis>1580452248003</millis>
+  <sequence>3396</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:48</date>
+  <millis>1580452248160</millis>
+  <sequence>3397</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>157</param>
+  <param>java</param>
+  <param>1</param>
+  <param>83</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>1</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:49</date>
+  <millis>1580452249887</millis>
+  <sequence>3398</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_INVOCATION</message>
+  <key>COMPL_INVOCATION</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>false</param>
+</record>
+<record>
+  <date>2020-01-31T08:30:53</date>
+  <millis>1580452253824</millis>
+  <sequence>3399</sequence>
+  <logger>org.netbeans.ui.editor.completion</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>COMPL_MOUSE_SELECT</message>
+  <key>COMPL_MOUSE_SELECT</key>
+  <catalog>org.netbeans.modules.editor.completion.Bundle</catalog>
+  <param>null</param>
+  <param>7</param>
+  <param>MethodItem</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:05</date>
+  <millis>1580452265210</millis>
+  <sequence>3401</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>no-ActionEvent</param>
+  <param>no-ActionEvent</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction[select-word]</param>
+  <param>org.netbeans.editor.BaseKit$SelectWordAction@120f77eb</param>
+  <param>select-word</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:06</date>
+  <millis>1580452266337</millis>
+  <sequence>3402</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1580452266336,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+C,when=1580452266336,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction[copy-to-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$CopyAction@53da7837</param>
+  <param>copy-to-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:08</date>
+  <millis>1580452268907</millis>
+  <sequence>3403</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452268903,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452268903,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:16</date>
+  <millis>1580452276383</millis>
+  <sequence>3404</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452276382,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452276382,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:18</date>
+  <millis>1580452278393</millis>
+  <sequence>3405</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>pressed F6</param>
+  <param>pressed F6</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory@549831c2</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory</param>
+  <param>&amp;Run Main Project</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:18</date>
+  <millis>1580452278395</millis>
+  <sequence>3406</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>PROJECT_ACTION</message>
+  <key>PROJECT_ACTION</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory</param>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+  <param>&amp;Run Main Project</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:18</date>
+  <millis>1580452278548</millis>
+  <sequence>3407</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>30388</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:18</date>
+  <millis>1580452278791</millis>
+  <sequence>3408</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>241</param>
+  <param>java</param>
+  <param>1</param>
+  <param>142</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>6</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:18</date>
+  <millis>1580452278791</millis>
+  <sequence>3409</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:18</date>
+  <millis>1580452278945</millis>
+  <sequence>3410</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>154</param>
+  <param>java</param>
+  <param>1</param>
+  <param>71</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>1</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:19</date>
+  <millis>1580452279468</millis>
+  <sequence>3411</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>527</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>523</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:19</date>
+  <millis>1580452279468</millis>
+  <sequence>3412</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>527</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:28</date>
+  <millis>1580452288569</millis>
+  <sequence>3413</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>9101</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:28</date>
+  <millis>1580452288569</millis>
+  <sequence>3414</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:41</date>
+  <millis>1580452301776</millis>
+  <sequence>3416</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>pressed F6</param>
+  <param>pressed F6</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory@549831c2</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory</param>
+  <param>&amp;Run Main Project</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:41</date>
+  <millis>1580452301777</millis>
+  <sequence>3417</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>PROJECT_ACTION</message>
+  <key>PROJECT_ACTION</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory</param>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+  <param>&amp;Run Main Project</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:41</date>
+  <millis>1580452301820</millis>
+  <sequence>3418</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>523</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>13251</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:42</date>
+  <millis>1580452302019</millis>
+  <sequence>3419</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>523</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>197</param>
+  <param>java</param>
+  <param>1</param>
+  <param>88</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>2</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:42</date>
+  <millis>1580452302021</millis>
+  <sequence>3420</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>523</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>2</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:42</date>
+  <millis>1580452302021</millis>
+  <sequence>3421</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>523</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:48</date>
+  <millis>1580452308629</millis>
+  <sequence>3422</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>6608</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:48</date>
+  <millis>1580452308629</millis>
+  <sequence>3423</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:50</date>
+  <millis>1580452310479</millis>
+  <sequence>3425</sequence>
+  <logger>org.netbeans.ui.actions.editor</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>UI_ACTION_EDITOR</message>
+  <key>UI_ACTION_EDITOR</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452310478,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>java.awt.event.ActionEvent[ACTION_PERFORMED,cmd=Ctrl+V,when=1580452310478,modifiers=Ctrl] on org.openide.text.QuietEditorPane[,0,0,1542x1065,layout=javax.swing.plaf.basic.BasicTextUI$UpdateHandler,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.basic.BasicBorders$MarginBorder@33298186,flags=296,maximumSize=,minimumSize=,preferredSize=,caretColor=java.awt.Color[r=0,g=0,b=0],disabledTextColor=javax.swing.plaf.ColorUIResource[r=109,g=109,b=109],editable=true,margin=java.awt.Insets[top=0,left=0,bottom=0,right=0],selectedTextColor=javax.swing.plaf.ColorUIResource[r=255,g=255,b=255],selectionColor=javax.swing.plaf.ColorUIResource[r=0,g=120,b=215],kit=org.netbeans.modules.editor.java.JavaKit@597a4f24,typeHandlers=]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction[paste-from-clipboard]</param>
+  <param>org.netbeans.editor.BaseKit$PasteAction@57878b43</param>
+  <param>paste-from-clipboard</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:51</date>
+  <millis>1580452311971</millis>
+  <sequence>3426</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>400</level>
+  <thread>21</thread>
+  <message>UI_ACTION_KEY_PRESS</message>
+  <key>UI_ACTION_KEY_PRESS</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>pressed F6</param>
+  <param>pressed F6</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory@549831c2</param>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory</param>
+  <param>&amp;Run Main Project</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:51</date>
+  <millis>1580452311972</millis>
+  <sequence>3427</sequence>
+  <logger>org.netbeans.ui.actions</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>PROJECT_ACTION</message>
+  <key>PROJECT_ACTION</key>
+  <catalog>&lt;null&gt;</catalog>
+  <param>org.netbeans.modules.project.ui.actions.MainProjectActionWithHistory</param>
+  <param>org.netbeans.modules.maven.NbMavenProjectImpl</param>
+  <param>&amp;Run Main Project</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:52</date>
+  <millis>1580452312018</millis>
+  <sequence>3428</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>3389</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:52</date>
+  <millis>1580452312222</millis>
+  <sequence>3429</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>203</param>
+  <param>java</param>
+  <param>1</param>
+  <param>113</param>
+  <param>TaskListIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org.netbeans.modules.java.source.indexing.COSSynchronizingIndexer</param>
+  <param>1</param>
+  <param>4</param>
+  <param>CopyResourcesIndexer</param>
+  <param>1</param>
+  <param>0</param>
+  <param>org-netbeans-modules-jumpto-file-FileIndexer</param>
+  <param>1</param>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:52</date>
+  <millis>1580452312222</millis>
+  <sequence>3430</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:52</date>
+  <millis>1580452312222</millis>
+  <sequence>3431</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>529</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:59</date>
+  <millis>1580452319909</millis>
+  <sequence>3432</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_STARTED</message>
+  <key>INDEXING_STARTED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>7687</param>
+</record>
+<record>
+  <date>2020-01-31T08:31:59</date>
+  <millis>1580452319909</millis>
+  <sequence>3433</sequence>
+  <logger>org.netbeans.ui.indexing</logger>
+  <level>800</level>
+  <thread>516</thread>
+  <message>INDEXING_FINISHED</message>
+  <key>INDEXING_FINISHED</key>
+  <catalog>org.netbeans.modules.parsing.impl.indexing.Bundle</catalog>
+  <param>0</param>
+</record>
+<record>
+  <date>2020-01-31T08:32:07</date>
+  <millis>1580452327457</millis>
+  <sequence>3434</sequence>
+  <logger>org.netbeans.ui.focus</logger>
+  <level>500</level>
+  <thread>21</thread>
+  <message>LOG_WINDOW_DEACTIVATED</message>
+  <key>LOG_WINDOW_DEACTIVATED</key>
+  <catalog>org.netbeans.core.ui.warmup.Bundle</catalog>
+</record>

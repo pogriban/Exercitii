@@ -26,6 +26,8 @@ System.out.println(text2.valid("The knowledge is the best weapon"));
 System.out.println(text3.valid("The knowledge is the best weapon"));
         
         System.out.println("");
+        Este es=new Este("The c is the best weapon");
+        System.out.println("Este "+es.valid("knowledge"));
 PredicatString<String> textPredicat = textInitial -> !textInitial.contains("x");
 PredicatString<String> text1Predicat = textInitial -> textInitial.length()>6;
 PredicatString<String> text2Predicat = textInitial -> textInitial==null;
