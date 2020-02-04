@@ -29,10 +29,10 @@ public class Validate {
         System.out.println("Numarul "+ x+" par "+par.valid(x));
         System.out.println("Numarul "+ x1+" impar "+imparpar.valid(x1));
         System.out.println("");
-        Predicat maiMarecaZeroPredicar = i -> i > 0;
-        Predicat maiMicZeroPredicar = i -> i < 0;
-        Predicat parPredicar = i -> i %2== 0;
-        Predicat imparPredicar = i -> i %2!= 0;
+        Predicate maiMarecaZeroPredicar = i -> i > 0;
+        Predicate maiMicZeroPredicar = i -> i < 0;
+        Predicate parPredicar = i -> i %2== 0;
+        Predicate imparPredicar = i -> i %2!= 0;
         
 // Calling Predicate method
 System.out.println("Numarul "+x+" este mai mare ca zero "+maiMarecaZeroPredicar.test(x));

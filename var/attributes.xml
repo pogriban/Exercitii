@@ -7,6 +7,15 @@
     <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|252626021|org-netbeans-modules-profiler">
         <attr name="settingsFor" urlvalue="file:/D:/Tek/Lucrare%20de%20curs/LucrareIndividuala/"/>
     </fileobject>
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|936356027|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex19.2.2/"/>
+    </fileobject>
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9912895|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex19.2/"/>
+    </fileobject>
+    <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9912896|org-netbeans-modules-profiler">
+        <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex19.1/"/>
+    </fileobject>
     <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9913856|org-netbeans-modules-profiler">
         <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex18.2/"/>
     </fileobject>
@@ -24,5 +33,17 @@
     </fileobject>
     <fileobject name="C:|Users|ThinkPad|AppData|Local|NetBeans|Cache|11.1|mavencachedirs|9920584|org-netbeans-modules-profiler">
         <attr name="settingsFor" urlvalue="file:/D:/Tek/Exercises/Ex11.1/"/>
+    </fileobject>
+    <fileobject name="D:|Tek|Exercises|Ex17.1">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000d\u000a&lt;project-private>\u000d\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000d\u000a&lt;/project-private>\u000d\u000a"/>
+    </fileobject>
+    <fileobject name="D:|Tek|Exercises|Ex18.1">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000d\u000a&lt;project-private>\u000d\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000d\u000a&lt;/project-private>\u000d\u000a"/>
+    </fileobject>
+    <fileobject name="D:|Tek|Exercises|Ex18.2">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000d\u000a&lt;project-private>\u000d\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000d\u000a&lt;/project-private>\u000d\u000a"/>
+    </fileobject>
+    <fileobject name="D:|Tek|Lucrare de curs|LucrareIndividuala">
+        <attr name="AuxilaryConfiguration" stringvalue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>\u000d\u000a&lt;project-private>\u000d\u000a    &lt;editor-bookmarks xmlns=&quot;http://www.netbeans.org/ns/editor-bookmarks/2&quot; lastBookmarkId=&quot;0&quot;/>\u000d\u000a    &lt;open-files xmlns=&quot;http://www.netbeans.org/ns/projectui-open-files/2&quot;>\u000d\u000a        &lt;group>\u000d\u000a            &lt;file>file:/D:/Tek/Lucrare%20de%20curs/LucrareIndividuala/src/main/java/pogriban/lucrareindividuala/TotalIntrebari.java&lt;/file>\u000d\u000a            &lt;file>file:/D:/Tek/Lucrare%20de%20curs/LucrareIndividuala/src/main/java/pogriban/lucrareindividuala/Milioner.java&lt;/file>\u000d\u000a            &lt;file>file:/D:/Tek/Lucrare%20de%20curs/LucrareIndividuala/src/main/java/pogriban/lucrareindividuala/Intrebari.java&lt;/file>\u000d\u000a        &lt;/group>\u000d\u000a    &lt;/open-files>\u000d\u000a&lt;/project-private>\u000d\u000a"/>
     </fileobject>
 </attributes>
